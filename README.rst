@@ -33,6 +33,12 @@ You must have Django installed: `<http://www.djangoproject.com/>`_
 
 #. To edit things,
 
+   #. Log in as an user by going to
+      `<http://localhost:8000/user/login/>`_
+   #. Use the UI to edit things (NB. heavily under construction at the moment)
+
+   Or,
+
    #. Log in as a superuser (created above) by going to
       `<http://localhost:8000/admin/>`_
    #. Select the items to edit or create
