@@ -34,5 +34,5 @@ You must have Django installed: `<http://www.djangoproject.com/>`_
 #. To edit things,
 
    #. Log in as a superuser (created above) by going to
-    `<http://localhost:8000/admin/>`_
+      `<http://localhost:8000/admin/>`_
    #. Select the items to edit or create
