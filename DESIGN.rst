@@ -132,3 +132,13 @@ the ``scipyshare`` package::
 and the main project resides in::
 
     deploy/
+
+The django applications are:
+
+- ``catalog``     -- main application/snippet catalog data
+- ``community``   -- user-assigned tags, ratings, etc.
+- ``filestorage`` -- managing storing sets of files on the FS
+- ``front``       -- just some dummy front page
+- ``importing``   -- dealing with importing from PyPi
+- ``user``        -- user login/logout, profile, etc.
+
